@@ -1,6 +1,7 @@
 # My Ignore
 bin/
 bin-int/
+out/
 
 # External junk
 .DS_Store
